@@ -16,7 +16,6 @@ mod 'testrepo',
   :git => 'https://github.com/extendingpuppet/testrepo.git',
   :branch => 'master'
 
-mod 'puppetlabs-apache', '1.11.0'
-mod 'puppetlabs-mysql', '3.10.0'
-mod 'puppetlabs-concat'
-mod 'mayflower-php', '4.0.0-beta1'
+mod 'apache',
+  :git => 'https://github.com/extendingpuppet/apache.git',
+  :branch => 'master'
