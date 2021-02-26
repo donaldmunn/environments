@@ -10,7 +10,7 @@ mod 'puppetlabs-ntp',
 
 mod 'puppetlabs-apt',
   :git => 'https://github.com/puppetlabs/puppetlabs-apt.git',
-  :ref => '1.4.x'
+  :ref => '1.4.2'
 
 mod 'testrepo',
   :git => 'https://github.com/extendingpuppet/testrepo.git',
